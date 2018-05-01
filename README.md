@@ -14,7 +14,7 @@ Features:
 - Line out and headphone output with volume control.
 - Muting voices, possibility to erase individual voices or whole patterns.
 - Metronome.
-- 9V battery powered, up to 7 hours running time.
+- 9V battery powered, up to 7.5 hours running time.
 - Auto power off for battery saving.
 - Hackable and open source.
 - DIY friendly 0805 components.
